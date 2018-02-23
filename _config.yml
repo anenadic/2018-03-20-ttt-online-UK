@@ -6,7 +6,7 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "Carpentry Instructor Training 2018-01-30-ttt-online-UK"
 
 # Contact email address.
 email: lessons@software-carpentry.org
@@ -20,7 +20,7 @@ kind: "workshop"
 
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
-repository: <USERNAME>/<PROJECT>
+repository: anenadic/2018-01-30-ttt-online-UK
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
@@ -31,8 +31,8 @@ swc_pages: "https://swcarpentry.github.io"
 template_repo: "https://github.com/swcarpentry/styles"
 example_repo: "https://github.com/swcarpentry/lesson-example"
 example_site: "https://swcarpentry.github.com/lesson-example"
-workshop_repo: "https://github.com/swcarpentry/workshop-template"
-workshop_site: "https://swcarpentry.github.io/workshop-template"
+workshop_repo: "https://github.com/anenadic/2018-03-20-ttt-online-UK"
+workshop_site: "https://anenadic.github.io/2018-03-20-ttt-online-UK/"
 training_site: "https://carpentries.github.io/instructor-training"
 
 # Surveys.
